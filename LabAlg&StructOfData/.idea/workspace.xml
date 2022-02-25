@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f696198f-8b20-4e14-bc81-48cc53802d20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sa2zd6D4KXmjAjOqtDxmW8TUli" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tpu.company.Main" />
+      <module name="LabAlg&amp;StructOfData" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f696198f-8b20-4e14-bc81-48cc53802d20" name="Default Changelist" comment="" />
+      <created>1621096642978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621096642978</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1621336491912">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state x="605" y="171" key="#com.intellij.ide.util.MemberChooser/0.40.1600.860@0.40.1600.860" timestamp="1621336491912" />
+    <state width="1557" height="63" key="GridCell.Tab.0.bottom" timestamp="1621419054632">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="1557" height="163" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1621105504925" />
+    <state width="1557" height="63" key="GridCell.Tab.0.bottom/0.40.1600.860@0.40.1600.860" timestamp="1621419054632" />
+    <state width="1557" height="63" key="GridCell.Tab.0.center" timestamp="1621419054631">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="1557" height="163" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1621105504925" />
+    <state width="1557" height="63" key="GridCell.Tab.0.center/0.40.1600.860@0.40.1600.860" timestamp="1621419054631" />
+    <state width="1557" height="63" key="GridCell.Tab.0.left" timestamp="1621419054631">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="1557" height="163" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1621105504924" />
+    <state width="1557" height="63" key="GridCell.Tab.0.left/0.40.1600.860@0.40.1600.860" timestamp="1621419054631" />
+    <state width="1557" height="63" key="GridCell.Tab.0.right" timestamp="1621419054632">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="1557" height="163" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1621105504925" />
+    <state width="1557" height="63" key="GridCell.Tab.0.right/0.40.1600.860@0.40.1600.860" timestamp="1621419054632" />
+    <state width="1557" height="240" key="GridCell.Tab.1.bottom" timestamp="1621353731445">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="1557" height="291" key="GridCell.Tab.1.bottom/0.0.1600.900@0.0.1600.900" timestamp="1621104629289" />
+    <state width="1557" height="240" key="GridCell.Tab.1.bottom/0.40.1600.860@0.40.1600.860" timestamp="1621353731445" />
+    <state width="1557" height="240" key="GridCell.Tab.1.center" timestamp="1621353731444">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="1557" height="291" key="GridCell.Tab.1.center/0.0.1600.900@0.0.1600.900" timestamp="1621104629288" />
+    <state width="1557" height="240" key="GridCell.Tab.1.center/0.40.1600.860@0.40.1600.860" timestamp="1621353731444" />
+    <state width="1557" height="240" key="GridCell.Tab.1.left" timestamp="1621353731444">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="1557" height="291" key="GridCell.Tab.1.left/0.0.1600.900@0.0.1600.900" timestamp="1621104629288" />
+    <state width="1557" height="240" key="GridCell.Tab.1.left/0.40.1600.860@0.40.1600.860" timestamp="1621353731444" />
+    <state width="1557" height="240" key="GridCell.Tab.1.right" timestamp="1621353731445">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state width="1557" height="291" key="GridCell.Tab.1.right/0.0.1600.900@0.0.1600.900" timestamp="1621104629288" />
+    <state width="1557" height="240" key="GridCell.Tab.1.right/0.40.1600.860@0.40.1600.860" timestamp="1621353731445" />
+    <state x="496" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1622620648040">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state x="496" y="294" key="com.intellij.ide.util.TipDialog/0.40.1600.860@0.40.1600.860" timestamp="1622620648040" />
+    <state x="182" y="90" key="new project wizard" timestamp="1622545187674">
+      <screen x="0" y="40" width="1600" height="860" />
+    </state>
+    <state x="182" y="90" key="new project wizard/0.40.1600.860@0.40.1600.860" timestamp="1622545187674" />
+    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1621103503218">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1621103503218" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tpu/company/Main.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tpu/company/Main.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this" />
+        <watch expression="this" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LabAlg_StructOfData$Main.ic" NAME="Main Coverage Results" MODIFIED="1621336824790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
